@@ -5,4 +5,4 @@ This repository contains
 3. Compiler.py
   a. Compiles OOP program to VM files.
   
-The compiler handles Objects, expressoins, complex arrays, gameI/O
+The compiler handles Objects, expressions, complex arrays, gameI/O, ..
